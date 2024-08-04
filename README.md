@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ciberexplosion
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Golang and CosmosSDK
-- 💞️ I’m looking to collaborate on WolfDAO - AssetMantle.one
+- 💞️ I’m looking to collaborate on Entangle.club 
 - 📫 How to reach me - Twitter **https://twitter.com/ciberexplosion**
 
 <!---
